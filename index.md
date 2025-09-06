@@ -4,9 +4,9 @@ title: Home
 ---
 
 <!-- 顶部横幅图（可选），直接丢一张图到 /assets/ 并替换文件名 -->
-<p align="center">
-  <img src="{{ '/assets/banner.jpg' | relative_url }}" alt="banner" width="320">
-</p>
+<img src="{{ '/assets/banner.jpg' | relative_url }}"
+     alt="banner"
+     style="width:100%; max-width:960px; aspect-ratio:3/2; object-fit:cover; border-radius:12px;">
 
 <!-- ===== Hero Section（带头像与按钮） ===== -->
 <div style="display:flex; flex-direction:column; align-items:center; gap:14px; text-align:center; margin: 32px 0;">
