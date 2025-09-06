@@ -13,7 +13,6 @@ plugins:
 # Head（对应下面将要创建的页面）
 header_pages:
   - About.md
-  - Publications.md
-  - Projects.md
   - Story.md
+  - Publications.md
   - CV.md
