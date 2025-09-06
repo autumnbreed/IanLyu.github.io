@@ -4,8 +4,13 @@ url: "https://Ianlyu.github.io"
 
 # Try themes
 # theme: jekyll-theme-cayman
-theme: jekyll-theme-minimal
-
+# theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.26.0"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Addons（GitHub Pages 原生支持）
 plugins:
