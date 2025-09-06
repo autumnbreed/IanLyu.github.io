@@ -69,7 +69,7 @@ title: Home
       <h3 style="margin-top:0;">Quick Links</h3>
       <ul style="margin:0; padding-left:18px;">
         <li><a href="/publications/">Publications</a></li>
-        <li><a href="/projects/">Projects</a></li>
+        <li><a href="/stories/">Projects</a></li>
         <li><a href="/about/">About</a></li>
         <li><a href="/atom.xml">RSS Feed</a></li>
       </ul>
