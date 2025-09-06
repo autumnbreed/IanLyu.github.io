@@ -7,18 +7,21 @@ url: "https://Ianlyu.github.io"
 # Try themes
 # theme: jekyll-theme-cayman
 # theme: jekyll-theme-minimal
-remote_theme: "mmistakes/minimal-mistakes@4.26.0"
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 
 # Addons（GitHub Pages 原生支持）
 plugins:
   - jekyll-feed      # RSS
   - jekyll-sitemap   # map
   - jekyll-seo-tag   # SEO
+
+# —— 顶部 logo（可选）：放一张头像或徽标到 /assets/，此处填路径 ——
+logo: /assets/avatar.jpg
 
 # Head（对应下面将要创建的页面）
 header_pages:
