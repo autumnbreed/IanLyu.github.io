@@ -23,6 +23,10 @@ title: Home
   </h1>
 
   <p style="margin:0; color:#586069; font-size:16px;">
+    {{ site.description }}
+  </p>
+
+  <p style="margin:0; color:#586069; font-size:16px;">
     {{ site.tagline }}
   </p>
 
