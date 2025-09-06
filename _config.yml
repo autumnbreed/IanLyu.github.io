@@ -1,8 +1,11 @@
 title: Yanjun (Ian) Lyu
 description: Your tagline or research interests
 url: "https://Ianlyu.github.io"
-# 使用 GitHub Pages 官方主题（免插件，免本地）
-theme: jekyll-theme-cayman
+
+# Try themes
+# theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+
 
 # Addons（GitHub Pages 原生支持）
 plugins:
