@@ -23,7 +23,7 @@ title: Home
   </p>
 
   <div style="display:flex; gap:10px; margin-top:12px; flex-wrap:wrap; justify-content:center;">
-    <a href="{{ site.brand.cta_primary_link | default: '/publications/' }}" 
+    <a href="https://scholar.google.com/citations?user=XXXX" 
        style="padding:10px 16px; border-radius:10px; text-decoration:none; background:#0366d6; color:white; font-weight:600;">
       {{ site.brand.cta_primary_text | default: "Publications" }}
     </a>
