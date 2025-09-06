@@ -29,7 +29,7 @@
 title: Yanjun (Ian) Lyu            #
 tagline: AI • Neuroimaging • Genomics • Genomics  # ← main page Hero
 description: "Research on multimodal AI, connectomics, and statistical genetics."  # SEO
-url: "https://yourusername.github.io"    # 你的站点根地址
+url: "https://yourusername.github.io"
 baseurl: ""                              # 用户主页用空字符串
 
 # GitHub Pages, alter: pages-themes/**
