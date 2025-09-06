@@ -76,10 +76,10 @@ title: Home
     <div style="background:#ffffff;border:1px solid #eaecef;border-radius:14px;padding:16px;">
       <h3 style="margin-top:0;">Quick Links</h3>
       <ul style="margin:0; padding-left:18px;">
-        <li><a href="/publications/">Publications</a></li>
-        <li><a href="/story/">Story</a></li>
-        <li><a href="/about/">About</a></li>
-        <li><a href="/atom.xml">RSS Feed</a></li>
+        <li><a href="https://scholar.google.com/citations?user=4xW30NMAAAAJ">Publications</a></li>
+        <li><a href="/story.md/">Story</a></li>
+        <li><a href="/about.md">About</a></li>
+        <li><a href="/cv.md">CV</a></li>
       </ul>
     </div>
   </div>
