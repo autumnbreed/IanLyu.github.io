@@ -9,7 +9,7 @@ title: Home
 </p>
 
 <!-- ===== Hero Section（带头像与按钮） ===== -->
-<div style="display:flex; flex-direction:column; align-items:center; gap:14px; text-align:center; margin: 32px 0;">
+<!-- <div style="display:flex; flex-direction:column; align-items:center; gap:14px; text-align:center; margin: 32px 0;"> -->
 <!--   <img src="{{ site.brand.hero_image | default: '/assets/avatar.jpg' }}"
        alt="profile"
        style="width:120px;height:120px;border-radius:50%;object-fit:cover;box-shadow:0 10px 30px rgba(0,0,0,0.15);" /> -->
