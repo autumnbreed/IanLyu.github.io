@@ -1,90 +1,92 @@
-# title: Yanjun (Ian) Lyu
+title: Yanjun (Ian) Lyu
 # description: Hi, I am Yanjun, let us embracing the fulture of digitized virtual life science
-# url: "https://Ianlyu.github.io"
-
-# # Try themes
-# # theme: jekyll-theme-cayman
-# # theme: jekyll-theme-minimal
-# remote_theme: "mmistakes/minimal-mistakes@4.26.0"
-# plugins:
-#   - jekyll-remote-theme
-#   - jekyll-feed
-#   - jekyll-sitemap
-#   - jekyll-seo-tag
-
-# # Addons（GitHub Pages 原生支持）
-# plugins:
-#   - jekyll-feed      # RSS
-#   - jekyll-sitemap   # map
-#   - jekyll-seo-tag   # SEO
-
-# # Head（对应下面将要创建的页面）
-# header_pages:
-#   - About.md
-#   - Story.md
-#   - Publications.md
-#   - CV.md
-
-# New
-title: Yanjun (Ian) Lyu            #
 tagline: AI • Neuroimaging • Genomics • Genomics  # ← main page Hero
 description: "Research on multimodal AI, connectomics, and statistical genetics."  # SEO
-url: "https://yourusername.github.io"
-baseurl: ""                              # 用户主页用空字符串
+url: "https://Ianlyu.github.io"
 
-# GitHub Pages, alter: pages-themes/**
+# Try themes
+# theme: jekyll-theme-cayman
+# theme: jekyll-theme-minimal
 remote_theme: "mmistakes/minimal-mistakes@4.26.0"
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-# —— GitHub Pages (SEO / Feed / Sitemap / 远程主题）
 
+# Addons（GitHub Pages 原生支持）
+plugins:
+  - jekyll-feed      # RSS
+  - jekyll-sitemap   # map
+  - jekyll-seo-tag   # SEO
+
+# Head（对应下面将要创建的页面）
 header_pages:
-  - about.md
-  - story.md
-  - publications.md
-  - projects.md
+  - About.md
+  - Story.md
+  - Publications.md
+  - CV.md
 
-# ——  Hero and meta
-author:
-  name: "Ian Lyu"
-  email: "you@example.com"
-  affiliation: "Department / Lab, University"
-  location: "City, Country"
-  links:
-    - label: GitHub
-      url: "https://github.com/yourusername"
-    - label: Google Scholar
-      url: "https://scholar.google.com/citations?user=XXXX"
-    - label: ORCID
-      url: "https://orcid.org/0000-0000-0000-0000"
+# # New
+# title: Yanjun (Ian) Lyu            #
+# tagline: AI • Neuroimaging • Genomics • Genomics  # ← main page Hero
+# description: "Research on multimodal AI, connectomics, and statistical genetics."  # SEO
+# url: "https://yourusername.github.io"
+# baseurl: ""                              # 用户主页用空字符串
 
-#  Markdown/HTML
-brand:
-  hero_image: "/assets/avatar.jpg"     # ← Cover 
-  cta_primary_text: "Publications"
-  cta_primary_link: "/publications/"
-  cta_secondary_text: "About Me"
-  cta_secondary_link: "/about/"
+# # GitHub Pages, alter: pages-themes/**
+# remote_theme: "mmistakes/minimal-mistakes@4.26.0"
+# plugins:
+#   - jekyll-remote-theme
+#   - jekyll-feed
+#   - jekyll-sitemap
+#   - jekyll-seo-tag
+# # —— GitHub Pages (SEO / Feed / Sitemap / 远程主题）
 
-# —— Front Matter（给 post/page 提供默认布局/参数）
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page
+# header_pages:
+#   - about.md
+#   - story.md
+#   - publications.md
+#   - projects.md
 
-# —— Feed / Sitemap（keep defaults）
-feed:
-  path: atom.xml
+# # ——  Hero and meta
+# author:
+#   name: "Ian Lyu"
+#   email: "you@example.com"
+#   affiliation: "Department / Lab, University"
+#   location: "City, Country"
+#   links:
+#     - label: GitHub
+#       url: "https://github.com/yourusername"
+#     - label: Google Scholar
+#       url: "https://scholar.google.com/citations?user=XXXX"
+#     - label: ORCID
+#       url: "https://orcid.org/0000-0000-0000-0000"
+
+# #  Markdown/HTML
+# brand:
+#   hero_image: "/assets/avatar.jpg"     # ← Cover 
+#   cta_primary_text: "Publications"
+#   cta_primary_link: "/publications/"
+#   cta_secondary_text: "About Me"
+#   cta_secondary_link: "/about/"
+
+# # —— Front Matter（给 post/page 提供默认布局/参数）
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: post
+#   - scope:
+#       path: ""
+#       type: "pages"
+#     values:
+#       layout: page
+
+# # —— Feed / Sitemap（keep defaults）
+# feed:
+#   path: atom.xml
 
 # —— 站点图标（可选：放置 favicon）
 # favicon: /assets/favicon.ico
