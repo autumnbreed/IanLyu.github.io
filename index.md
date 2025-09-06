@@ -5,7 +5,7 @@ title: Home
 
 <!-- 顶部横幅图（可选），直接丢一张图到 /assets/ 并替换文件名 -->
 <p align="center">
-  <img src="{{ '/assets/banner.jpg' | relative_url }}" alt="banner" width="880">
+  <img src="{{ '/assets/banner.jpg' | relative_url }}" alt="banner" width="320">
 </p>
 
 <!-- ===== Hero Section（带头像与按钮） ===== -->
