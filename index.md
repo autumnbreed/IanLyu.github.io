@@ -21,7 +21,7 @@ My research explores [brief summary of your approach or goals, e.g., computation
 
 🔗 **Quick Links**
 - [Publications](./publications)
-- [Projects](./projects)
+- [Research stories](./Story)
 - [About Me](./about)
 - [CV (PDF)](./assets/YourName_CV.pdf)
 
