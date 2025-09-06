@@ -26,10 +26,6 @@ title: Home
     {{ site.description }}
   </p>
 
-  <p style="margin:0; color:#586069; font-size:16px;">
-    {{ site.subtitle }}
-  </p>
-
   <div style="display:flex; gap:10px; margin-top:12px; flex-wrap:wrap; justify-content:center;">
     <a href="https://scholar.google.com/citations?user=4xW30NMAAAAJ" 
        style="padding:10px 16px; border-radius:10px; text-decoration:none; background:#0366d6; color:white; font-weight:600;">
