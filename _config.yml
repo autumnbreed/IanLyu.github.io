@@ -1,0 +1,19 @@
+title: Yanjun (Ian) Lyu
+description: Your tagline or research interests
+url: "https://IanLyu.github.io"
+# 使用 GitHub Pages 官方主题（免插件，免本地）
+theme: jekyll-theme-cayman
+
+# Addons（GitHub Pages 原生支持）
+plugins:
+  - jekyll-feed      # RSS
+  - jekyll-sitemap   # map
+  - jekyll-seo-tag   # SEO
+
+# Head（对应下面将要创建的页面）
+header_pages:
+  - About.md
+  - Publications.md
+  - Projects.md
+  - Story.md
+  - CV.md
