@@ -40,7 +40,7 @@ title: Home
   <!-- 社交/外链（按需增减） -->
   <p style="margin-top:10px; font-size:14px;">
     <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> ·
-    <a href="https://github.com/yourusername">GitHub</a> ·
+<!--     <a href="https://github.com/yourusername">GitHub</a> · -->
     <a href="https://huggingface.co/IanL10/datasets">Data</a> ·
     <a href="https://orcid.org/0009-0009-5646-326X">ORCID</a>
   </p>
