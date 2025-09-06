@@ -27,7 +27,7 @@ title: Home
   </p>
 
   <p style="margin:0; color:#586069; font-size:16px;">
-    {{ site.tagline }}
+    {{ site.subtitle }}
   </p>
 
   <div style="display:flex; gap:10px; margin-top:12px; flex-wrap:wrap; justify-content:center;">
