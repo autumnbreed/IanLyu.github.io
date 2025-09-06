@@ -42,7 +42,7 @@ title: Home
     <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> ·
     <a href="https://github.com/yourusername">GitHub</a> ·
     <a href="https://huggingface.co/IanL10/datasets">Data</a> ·
-    <a href="https://orcid.org/my-orcid?orcid=0009-0009-5646-326X">ORCID</a>
+    <a href="https://orcid.org/0009-0009-5646-326X">ORCID</a>
   </p>
 </div>
 
