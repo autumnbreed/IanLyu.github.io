@@ -53,9 +53,7 @@ title: Home
 <div style="max-width:900px;margin:0 auto;">
   <h2>About My Research</h2>
   <p>
-    I work at the intersection of <strong>machine learning</strong>, <strong>neuroimaging</strong>, and <strong>genomics</strong>, 
-    building multimodal models to understand brain structure-function relationships and their genetic underpinnings. 
-    I am especially interested in representation learning, multi-modality AI and interpretable biomedical/bioinformatic AI.
+    I work at the intersection of <strong>machine learning</strong>, <strong>bioinformatics</strong>, <strong>neuroimaging</strong>, and <strong>genomics</strong>, building AI to understand multi-omics and multi-layered principles of life science. I am especially interested in representation learning, multi-modality AI and interpretable biomedical/bioinformatic AI.
   </p>
 
   <!-- ===== Cards: Research Topics / News ===== -->
