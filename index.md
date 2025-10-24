@@ -55,7 +55,7 @@ title: Home
   <p>
     I work at the intersection of <strong>machine learning</strong>, <strong>neuroimaging</strong>, and <strong>genomics</strong>, 
     building multimodal models to understand brain structure-function relationships and their genetic underpinnings. 
-    I am especially interested in self-supervised representation learning, pathway-aware modeling, and interpretable AI for clinical applications.
+    I am especially interested in representation learning, multi-modality AI and interpretable biomedical/bioinformatic AI.
   </p>
 
   <!-- ===== Cards: Research Topics / News ===== -->
@@ -63,18 +63,18 @@ title: Home
     <div style="background:#ffffff;border:1px solid #eaecef;border-radius:14px;padding:16px;">
       <h3 style="margin-top:0;">Current Topics</h3>
       <ul style="margin:0; padding-left:18px;">
-        <li>Connectome-genome integration</li>
-        <li>Self-supervised encoders for DWI/fMRI</li>
-        <li>Pathway-level enrichment & causal inference</li>
-        <li>Interpretable MoE for clinical endpoints</li>
+        <li>Multi-modality models and interpretable deep learning in studying brain disorders</li>
+        <li>Representation learning in exploring brain fundamental organization</li>
+        <li>Foundation models for life science and bioinformatics</li>
+        <li>Foundation language model for healthcare</li>
       </ul>
     </div>
     <div style="background:#ffffff;border:1px solid #eaecef;border-radius:14px;padding:16px;">
       <h3 style="margin-top:0;">News</h3>
       <ul style="margin:0; padding-left:18px;">
-        <li>[Preprint] Title of your latest paper — <a href="#">arXiv</a></li>
-        <li>[Dataset] Release name — <a href="#">GitHub</a></li>
-        <li>[Talk] Venue, Month Year — <a href="#">Slides</a></li>
+        <li>[Latest paper] Lyu, Yanjun, et al. "Oblique Genomics Mixture of Experts: Prediction of Brain Disorder with Aging-Related Changes of Brain’s Structural Connectivity Under Genomic Influences." MICCAI, 2025. — <a href="#">arXiv</a></li>
+        <li>[Latest paper] Lyu, Y., Ruan, W., Zhang, J., Cai, J., Shu, P., Ge, Y., ... & Liu, T. (2026). Large language models for bioinformatics. Quantitative Biology, 14(1), e70014. — <a href="#">GitHub</a></li>
+        <li>[About banner picture] Cedar Hill State Park, TX, "Evening after a rain" — <a href="#">Slides</a></li>
       </ul>
     </div>
     <div style="background:#ffffff;border:1px solid #eaecef;border-radius:14px;padding:16px;">
