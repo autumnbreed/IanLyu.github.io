@@ -31,11 +31,11 @@ title: Home
        style="padding:10px 16px; border-radius:10px; text-decoration:none; background:#0366d6; color:white; font-weight:600;">
       {{ site.brand.cta_primary_text | default: "Publications" }}
     </a>
-    <a href="{{ site.brand.cta_secondary_link | default: '/about.md' }}" 
+    <a href="{{ site.brand.cta_secondary_link | default: './about.md' }}" 
        style="padding:10px 16px; border-radius:10px; text-decoration:none; background:#eaecef; color:#24292e; font-weight:600;">
       {{ site.brand.cta_secondary_text | default: "About Me" }}
     </a>
-    <a href="{{ site.brand.cta_secondary_link | default: '/story.md' }}" 
+    <a href="{{ site.brand.cta_secondary_link | default: './story.md' }}" 
        style="padding:10px 16px; border-radius:10px; text-decoration:none; background:#eaecef; color:#24292e; font-weight:600;">
       {{ site.brand.cta_secondary_text | default: "Research story" }}
     </a>
