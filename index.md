@@ -27,19 +27,24 @@ title: Home
   </p>
 
   <div style="display:flex; gap:10px; margin-top:12px; flex-wrap:wrap; justify-content:center;">
-    <a href="https://scholar.google.com/citations?user=4xW30NMAAAAJ" 
-       style="padding:10px 16px; border-radius:10px; text-decoration:none; background:#0366d6; color:white; font-weight:600;">
-      {{ site.brand.cta_primary_text | default: "Publications" }}
-    </a>
-    <a href="{{ site.brand.cta_secondary_link | default: './about.md' }}" 
-       style="padding:10px 16px; border-radius:10px; text-decoration:none; background:#eaecef; color:#24292e; font-weight:600;">
-      {{ site.brand.cta_secondary_text | default: "About Me" }}
-    </a>
-    <a href="{{ site.brand.cta_secondary_link | default: './story.md' }}" 
-       style="padding:10px 16px; border-radius:10px; text-decoration:none; background:#eaecef; color:#24292e; font-weight:600;">
-      {{ site.brand.cta_secondary_text | default: "Research story" }}
-    </a>
-  </div>
+  <a href="https://scholar.google.com/citations?user=4xW30NMAAAAJ" 
+     style="padding:10px 16px; border-radius:10px; text-decoration:none; background:#0366d6; color:white; font-weight:600;">
+    {{ site.brand.cta_primary_text | default: "Publications" }}
+  </a>
+
+  <!-- About 按钮 -->
+  <a href="{{ '/about/' | relative_url }}" 
+     style="padding:10px 16px; border-radius:10px; text-decoration:none; background:#eaecef; color:#24292e; font-weight:600;">
+    {{ site.brand.cta_secondary_text | default: "About Me" }}
+  </a>
+
+  <!-- Story 按钮 -->
+  <a href="{{ '/story/' | relative_url }}" 
+     style="padding:10px 16px; border-radius:10px; text-decoration:none; background:#eaecef; color:#24292e; font-weight:600;">
+    Research story
+  </a>
+</div>
+
 
   <!-- 社交/外链（按需增减） -->
   <p style="margin-top:10px; font-size:14px;">
@@ -77,14 +82,12 @@ title: Home
     </div>
     <div style="background:#ffffff;border:1px solid #eaecef;border-radius:14px;padding:16px;">
       <h3 style="margin-top:0;">Quick Links</h3>
-      <ul style="margin:0; padding-left:18px;">
+      <<ul style="margin:0; padding-left:18px;">
         <li><a href="https://scholar.google.com/citations?user=4xW30NMAAAAJ">Publications</a></li>
-        <li><a href="/story.md/">Story</a></li>
-        <li><a href="/about.md">About</a></li>
-        <li><a href="/cv.md">CV</a></li>
+        <li><a href="{{ '/story/' | relative_url }}">Story</a></li>
+        <li><a href="{{ '/about/' | relative_url }}">About</a></li>
       </ul>
     </div>
-  </div>
 </div>
 
 <!-- ===== Footer small note ===== -->
