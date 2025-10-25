@@ -33,10 +33,8 @@ Large Language Models for Healthcare
 
 ## 📬 Contact
 
-- Email: [your.email@example.com]  
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- ORCID: [0000-0000-XXXX-XXXX](#)  
-- Google Scholar: [Profile](#)
+- Email: [yxl9168@mavs.uta.edu.com]  
+- Google Scholar: [https://scholar.google.com/citations?user=4xW30NMAAAAJ&hl=en](#)
 
 ---
 
