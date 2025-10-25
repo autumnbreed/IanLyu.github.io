@@ -6,7 +6,7 @@ permalink: /about/
 
 ## 👨‍💻 Biography
 
-I am **[Your Name]**, currently a Ph.D. candidate in University of Texas at Arlington, Arlington, TX Ph.D. Student in Computer ScienceI am advised by Dr. Zhu, Dajiang. 
+I am Yanjun(Ian) Lyu, currently a Ph.D. candidate in University of Texas at Arlington, Arlington, TX Ph.D. Student in Computer ScienceI am advised by Dr. Zhu, Dajiang. 
 
 My research interests primarily focus on two broad topics: 
 1) interpretable and multi-modality artificial intelligence (AI) in biomedical:
