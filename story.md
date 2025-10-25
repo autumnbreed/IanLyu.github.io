@@ -102,16 +102,17 @@ permalink: /story/
         The applications of the methodology of large language models (LLMs) in bioinformatics tasks. The levels of life‐science factors in bioinformatics can be divided into five levels, from micro to macro. e.g., the mammal model organisms as a template, the
 levels can be divided into: the molecular level, the genome‐scale level, the cellular level, the tissue/organ system level, and the population/community/meta-genomics level.
       </p>
-      <p class="story-links">
+      <!-- <p class="story-links">
         <a href="#" target="_blank">PDF</a>
         <a href="#" target="_blank">Code</a>
         <a href="#" target="_blank">Project</a>
         <a href="#" target="_blank">arXiv</a>
-      </p>
+      </p> -->
       <div class="story-badges">
-        <span class="badge">connectomics</span>
-        <span class="badge">genomics</span>
-        <span class="badge">interpretable AI</span>
+        <span class="badge">LLMs</span>
+        <span class="badge">Bioinformatics.</span>
+        <span class="badge">Life‐science factors</span>
+        <span class="badge">Multi-levels/Multi-layers</span>
       </div>
     </div>
   </article>
@@ -130,14 +131,14 @@ levels can be divided into: the molecular level, the genome‐scale level, the c
         Inthiswork,we introduce a novel deep-learning diagram, an oblique genomics mixture of experts(OG-MoE), designed to address the prediction of brain disease diagnosis, with awareness of the structural connectivity changes over time, and coupled with the genomics influences. By integrating genomics features into the dynamic gating router system of MoE layers, the model specializes in representing the structural connectivity components in separate parameter spaces. 
         FrameworkoftheOG-MoE.ThemodelisbasedonBert-styletransformer encoders and the mixtures of sparse expert diagram with the special gating router, which combines genomics features.
       </p>
-      <p class="story-links">
+      <!-- <p class="story-links">
         <a href="#" target="_blank">PDF</a>
         <a href="#" target="_blank">Code</a>
         <a href="#" target="_blank">Dataset</a>
-      </p>
+      </p> -->
       <div class="story-badges">
-        <span class="badge">multimodal</span>
-        <span class="badge">self-supervised</span>
+        <span class="badge">Oblique Genomics</span>
+        <span class="badge">Mixture of Experts</span>
       </div>
     </div>
   </article>
@@ -155,15 +156,16 @@ levels can be divided into: the molecular level, the genome‐scale level, the c
       <p>
         The build bio-text datasets in genomics, proteomics, and medical genetics have experienced significant growth in both scale and diversity. For the purpose of comprehensively incorporating and extracting the mapping between genes and associated phenotype/diseases, multiple data sources were integrated into the training dataset of this study. Data merged from NCBI, OMIM, dbGaP, UniPort, and DisGeNet.
       </p>
-      <p class="story-links">
+      <!-- <p class="story-links">
         <a href="#" target="_blank">PDF</a>
         <a href="#" target="_blank">Code</a>
         <a href="#" target="_blank">Poster</a>
-      </p>
+      </p> -->
       <div class="story-badges">
-        <span class="badge">diffusion MRI</span>
-        <span class="badge">graph learning</span>
-        <span class="badge">MoE</span>
+        <span class="badge">Large language model</span>
+        <span class="badge">Gene-phenotype</span>
+        <span class="badge">Genomics</span>
+        <span class="badge">Bio-text</span>
       </div>
     </div>
   </article>
@@ -181,15 +183,16 @@ levels can be divided into: the molecular level, the genome‐scale level, the c
       <p>
         The objective is to construct a novel 3HG-based finer-scale brain connectome and comprehensively compare its performance with traditional region-based connectome in predicting MCI against Normal Controls (NC).
       </p>
-      <p class="story-links">
+      <!-- <p class="story-links">
         <a href="#" target="_blank">PDF</a>
         <a href="#" target="_blank">Code</a>
         <a href="#" target="_blank">Slides</a>
         <a href="#" target="_blank">Video</a>
-      </p>
+      </p> -->
       <div class="story-badges">
-        <span class="badge">bioinformatics</span>
-        <span class="badge">LLM</span>
+        <span class="badge">Brain connectome</span>
+        <span class="badge">Finer-scale brain landmark</span>
+        <span class="badge">Brain cortical folding pattern</span>
       </div>
     </div>
   </article>
@@ -207,15 +210,16 @@ levels can be divided into: the molecular level, the genome‐scale level, the c
       <p>
         To incorporate both imaging and molecular biomarkers, we propose a new deep fusion model: by integrating a cross-model deep network working on multi-modal brain image data and a fully-connected neural network working on gene expression data. Two models are merged in the late-fusion manner.
       </p>
-      <p class="story-links">
+      <!-- <p class="story-links">
         <a href="#" target="_blank">PDF</a>
         <a href="#" target="_blank">Code</a>
         <a href="#" target="_blank">Slides</a>
         <a href="#" target="_blank">Video</a>
-      </p>
+      </p> -->
       <div class="story-badges">
-        <span class="badge">bioinformatics</span>
-        <span class="badge">LLM</span>
+        <span class="badge">Multi-Omics</span>
+        <span class="badge">Fusion model</span>
+        <span class="badge">Gene expression</span>
       </div>
     </div>
   </article>
