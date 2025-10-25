@@ -6,34 +6,30 @@ permalink: /about/
 
 ## 👨‍💻 Biography
 
-I am **[Your Name]**, currently a [Position, e.g., Ph.D. Candidate / Postdoctoral Fellow] in [Department / Lab Name], [Institution Name]. I am advised by [Advisor Name(s)]. Prior to this, I received my [degree] from [Previous Institution] in [Year].
+I am **[Your Name]**, currently a Ph.D. candidate in University of Texas at Arlington, Arlington, TX Ph.D. Student in Computer ScienceI am advised by Dr. Zhu, Dajiang. 
 
-My academic work centers around the intersection of [Field 1], [Field 2], and [Field 3], aiming to solve questions such as:
-
-- How can we extract meaningful patterns from high-dimensional neuroimaging/genomic data?
-- What are the genetic and connectomic markers of aging or neurodegeneration?
-- Can deep learning offer interpretable insights in medical and clinical contexts?
+My research interests primarily focus on two broad topics: 
+1) interpretable and multi-modality artificial intelligence (AI) in biomedical:
+2) foundation models for life science and bioinformatics.
 
 ## 🧪 Research Interests
 
-- Brain structural and functional connectomics  
-- Statistical genetics and pathway enrichment  
-- Deep learning in neuroimaging and bioinformatics  
-- Representation learning and multi-modal integration
+Artificial Intelligence (AI) For Computational Neural Science and Brain Disorder Research
+• Development of individual brain structural and functional connectome, representation, and characterization.
+• Understanding brain network, neurodevelopment, and neuro- degenerative disorders.
+Interpretable Artificial Intelligence (AI) for Life-science and Bioinformatics
+• Developments and applications of foundation model in genetics and medical domain.
+• Developments of interpretable AI for bioinformatics and genetics.
+Medical Multi-Modality Modeling
+• Developments of deep learning algorithms in a multi-modality view, with multi-layered biological data.
+Large Language Models for Healthcare
+• Exploring the application of LLMs in healthcare research scenarios and their integrations with medical images.
 
 ## 🎓 Education
-
-- **Ph.D.** in [Your Program], [Your Institution] (Expected [Year])  
-- **M.S.** in [Your Program], [Institution], [Year]  
-- **B.S.** in [Major], [Institution], [Year]  
-
-## 💼 Experience
-
-- **Research Intern**, [Company / Lab], [City], [Year]  
-  Worked on [project summary, tools, outcome].
-
-- **Teaching Assistant**, [Course], [Semester]  
-  Assisted in course delivery, grading, and tutoring.
+- **Ph.D.** in University of Texas at Arlington, Arlington, TX Ph.D. Student in Computer Science
+- **M.S.** in Northeastern University, Boston, MA, USA Master of Science, Data Science
+- **M.S.** in Beijing Forestry University (BJFU) Beijing, China Master of Science (Specialty of Genetics, molecular biology, and bioinformatics)
+- **B.S.** Beijing Forestry University (BJFU) Beijing, China Bachelor of Biology Science
 
 ## 📬 Contact
 
