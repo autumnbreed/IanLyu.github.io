@@ -227,9 +227,3 @@ levels can be divided into: the molecular level, the genome‐scale level, the c
 </div>
 
 ---
-
-## How to update images & links
-- 把配图放在：`/assets/` 目录（建议 3:2，如 `1500×1000`；任意比例也行，会被居中裁切）。  
-- 替换 `<img src="{{ '/assets/paper-x.jpg' | relative_url }}">` 的路径与 alt。  
-- 修改标题、作者、Venue、亮点描述与链接（PDF / Code / Project / arXiv 等）。  
-- 想新增作品：按上方 `<article class="story-card"> ... </article>` 整块复制粘贴一份并替换内容即可。
