@@ -84,8 +84,7 @@ permalink: /story/
 
 # Selected Works
 
-> 每个条目：**一张主图 + 元信息 + 简短亮点 + 链接**  
-> 将你的配图放在 `/assets/story/` 下，并把下面的占位路径替换成实际文件。
+> Selected Works
 
 <div class="story-grid">
 
